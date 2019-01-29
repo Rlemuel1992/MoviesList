@@ -1,0 +1,7 @@
+C:\Users\Ronad\source\repos\Movies\Movies\bin\Debug\Movies.exe.config
+C:\Users\Ronad\source\repos\Movies\Movies\bin\Debug\Movies.exe
+C:\Users\Ronad\source\repos\Movies\Movies\bin\Debug\Movies.pdb
+C:\Users\Ronad\source\repos\Movies\Movies\obj\Debug\Movies.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\Movies\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\Movies\Movies\obj\Debug\Movies.exe
+C:\Users\Ronad\source\repos\Movies\Movies\obj\Debug\Movies.pdb
