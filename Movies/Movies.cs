@@ -4,9 +4,9 @@ namespace Movies
 {
 	class Movies
 	{
-		public string category;
-		public string title;
-		
+		private string category;
+		private string title;
+
 
 
 		public Movies(string title, string category)
